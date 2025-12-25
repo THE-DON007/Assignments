@@ -1,3 +1,4 @@
-# CSC 1102
-Introduction To Programming 
-python codes
+Name: Muzapihse Don_Russell
+Mat no: 539925
+Dept: CSc
+Purpose: Submisions of assignments
